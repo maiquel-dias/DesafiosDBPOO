@@ -1,0 +1,1 @@
+Olá este é um exercicio para iniciar o uso do Git.
